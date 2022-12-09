@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kitague/new-travel-site#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "normalize.css": "^8.0.1"
   }
